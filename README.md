@@ -1,4 +1,4 @@
-# 🏙️ katibrabat.com
+# 🏙️ robtiva.com
 
 > موقع كاتب عمومي احترافي في الرباط — متعدد اللغات، محسّن لمحركات البحث، جاهز للنشر على GitHub Pages
 
@@ -43,7 +43,7 @@ katib-rabat/
 3. **Settings → Pages → Branch: main → Save**
 4. موقعك يعمل على: `https://yourusername.github.io/katib-rabat`
 
-### ربط دومين مخصص (katibrabat.com)
+### ربط دومين مخصص (robtiva.com)
 
 ```
 Type: A → 185.199.108.153
@@ -107,7 +107,7 @@ TRANSLATIONS.es  // الإسبانية
 
 ## ⚠️ قائمة تحقق ما بعد النشر
 
-- [ ] استبدل `katibrabat.com` بدومينك في: `sitemap.xml`, `robots.txt`, `index.html`, `seo.json`
+- [ ] استبدل `robtiva.com` بدومينك في: `sitemap.xml`, `robots.txt`, `index.html`, `seo.json`
 - [ ] أضف صورة `og-image.jpg` (1200×630) — صورة الرباط
 - [ ] أضف `icons/icon-192.png` و `icons/icon-512.png`
 - [ ] أضف Google Analytics
@@ -122,7 +122,7 @@ TRANSLATIONS.es  // الإسبانية
 |--|--|
 | **واتساب** | +212 612 605 737 |
 | **بريد** | salatrir@gmail.com |
-| **موقع** | katibrabat.com |
+| **موقع** | robtiva.com |
 | **مدينة** | الرباط، المغرب |
 
 ---
@@ -131,7 +131,7 @@ TRANSLATIONS.es  // الإسبانية
 
 هذا الموقع نسخة الرباط من مشروع مزدوج:
 - **KatibMarrakech.com** — موقع مراكش
-- **katibrabat.com** — هذا الموقع
+- **robtiva.com** — هذا الموقع
 
 كلا الموقعين يستخدمان نفس رقم واتساب: **+212 612 605 737**
 

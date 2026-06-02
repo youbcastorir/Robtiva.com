@@ -2,5 +2,5 @@ User-agent: *
 Allow: /
 Disallow: /node_modules/
 Disallow: /.git/
-Sitemap: https://Robtiva.com/sitemap.xml
+Sitemap: https://robtiva.com/sitemap.xml
 Crawl-delay: 1

@@ -1,5 +1,5 @@
 /* ===================================================
-   katibrabat.com — Service Worker
+   robtiva.com — Service Worker
    Offline-first PWA caching strategy
    =================================================== */
 
