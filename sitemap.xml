@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://katibrabat.com/</loc>
+    <lastmod>2025-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ar"       href="https://katibrabat.com/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="fr"       href="https://katibrabat.com/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="en"       href="https://katibrabat.com/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="es"       href="https://katibrabat.com/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://katibrabat.com/"/>
+  </url>
+
+  <!-- Arabic articles -->
+  <url><loc>https://katibrabat.com/blog/katib-omomi-dar-baida</loc><lastmod>2025-01-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/shakawa-dar-baida</loc><lastmod>2025-01-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/cv-dar-baida</loc><lastmod>2025-01-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/tarjama-dar-baida</loc><lastmod>2025-02-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/uqood-ijar-dar-baida</loc><lastmod>2025-02-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/tashira-dar-baida</loc><lastmod>2025-02-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/rasail-idariya-dar-baida</loc><lastmod>2025-02-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/amal-dar-baida</loc><lastmod>2025-02-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/mosaada-idariya-dar-baida</loc><lastmod>2025-02-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/tashih-wathaiq-dar-baida</loc><lastmod>2025-03-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/katib-khedmat-rabat</loc><lastmod>2025-03-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/istimarat-rabat</loc><lastmod>2025-03-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/hoquq-moustahlik-rabat</loc><lastmod>2025-03-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/tarjama-rasmi-rabat</loc><lastmod>2025-03-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/uqood-tijariya-rabat</loc><lastmod>2025-03-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/katib-qarbi-rabat</loc><lastmod>2025-04-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/kataba-idariya-rabat</loc><lastmod>2025-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/wasaiq-idariya-rabat</loc><lastmod>2025-04-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/shakawa-amal-rabat</loc><lastmod>2025-04-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/cv-digital-rabat</loc><lastmod>2025-04-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/roukhsa-tijariya-rabat</loc><lastmod>2025-04-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/istimarat-bank-rabat</loc><lastmod>2025-05-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/tarjama-fr-ar-rabat</loc><lastmod>2025-05-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/uqood-bay-rabat</loc><lastmod>2025-05-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/taqarir-mihniya-rabat</loc><lastmod>2025-05-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/shakawa-idari-rabat</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/katib-omomi-tarikh-rabat</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/wasiat-rabat</loc><lastmod>2025-06-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/masharia-rabat</loc><lastmod>2025-06-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/risala-tadiya-rabat</loc><lastmod>2025-06-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/talaba-jamia-rabat</loc><lastmod>2025-06-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/iqama-rabat</loc><lastmod>2025-06-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/tarjama-es-ar-rabat</loc><lastmod>2025-07-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/uqood-wakala-rabat</loc><lastmod>2025-07-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/ihtijaj-rabat</loc><lastmod>2025-07-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/sira-raqmiya-rabat</loc><lastmod>2025-07-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/munja-rabat</loc><lastmod>2025-07-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/tarjama-en-ar-rabat</loc><lastmod>2025-07-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/akhtaa-istimarat-rabat</loc><lastmod>2025-08-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/shakwa-bank-rabat</loc><lastmod>2025-08-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/katib-hay-mohammadi</loc><lastmod>2025-08-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/uqood-chirakat-rabat</loc><lastmod>2025-08-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/tasrih-rabat</loc><lastmod>2025-08-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/tawsiya-rabat</loc><lastmod>2025-08-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/wasf-wazifa-rabat</loc><lastmod>2025-09-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/maqalat-tijariya-rabat</loc><lastmod>2025-09-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/dhaman-rabat</loc><lastmod>2025-09-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/amlak-rabat</loc><lastmod>2025-09-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/katib-muqarin-rabat</loc><lastmod>2025-09-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/raqmana-idariya-rabat</loc><lastmod>2025-09-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- French articles -->
+  <url><loc>https://katibrabat.com/blog/ecrivain-public-rabat</loc><lastmod>2025-01-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/redaction-plainte-rabat</loc><lastmod>2025-01-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/cv-professionnel-rabat</loc><lastmod>2025-01-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/traduction-rabat</loc><lastmod>2025-02-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/lettre-motivation-rabat</loc><lastmod>2025-02-14</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/visa-rabat</loc><lastmod>2025-02-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/contrats-location-rabat</loc><lastmod>2025-03-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/courrier-administratif-rabat</loc><lastmod>2025-03-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/services-ecrivain-rabat</loc><lastmod>2025-03-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/traduction-arabe-francais-rabat</loc><lastmod>2025-03-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/formulaires-rabat</loc><lastmod>2025-04-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/dossier-emploi-rabat</loc><lastmod>2025-04-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/attestations-rabat</loc><lastmod>2025-04-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/correction-documents-rabat</loc><lastmod>2025-04-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/recours-administratifs-rabat</loc><lastmod>2025-05-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/ecrivain-quartier-rabat</loc><lastmod>2025-05-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/immobilier-rabat</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/traduction-espagnol-arabe-rabat</loc><lastmod>2025-05-28</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/contrats-commerciaux-rabat</loc><lastmod>2025-06-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/numerique-ecrivain-rabat</loc><lastmod>2025-06-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- English articles -->
+  <url><loc>https://katibrabat.com/blog/public-writer-rabat-guide</loc><lastmod>2025-01-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/complaint-writing-rabat</loc><lastmod>2025-01-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/professional-cv-rabat</loc><lastmod>2025-01-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/document-translation-rabat</loc><lastmod>2025-02-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/visa-application-rabat</loc><lastmod>2025-02-14</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/cover-letter-rabat</loc><lastmod>2025-02-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/rental-contracts-rabat</loc><lastmod>2025-03-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/administrative-letters-rabat</loc><lastmod>2025-03-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/public-writer-services-rabat</loc><lastmod>2025-03-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/arabic-french-translation-rabat</loc><lastmod>2025-03-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/form-filling-rabat</loc><lastmod>2025-04-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/job-application-rabat</loc><lastmod>2025-04-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/certificates-rabat</loc><lastmod>2025-04-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/proofreading-rabat</loc><lastmod>2025-04-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/administrative-appeals-rabat</loc><lastmod>2025-05-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/find-public-writer-rabat</loc><lastmod>2025-05-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/real-estate-documents-rabat</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/spanish-arabic-translation-rabat</loc><lastmod>2025-05-28</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/commercial-contracts-rabat</loc><lastmod>2025-06-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/public-writer-digital-rabat</loc><lastmod>2025-06-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Spanish articles -->
+  <url><loc>https://katibrabat.com/blog/escritor-publico-rabat-guia</loc><lastmod>2025-01-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/redaccion-queja-rabat</loc><lastmod>2025-01-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/cv-profesional-rabat</loc><lastmod>2025-01-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/traduccion-rabat</loc><lastmod>2025-02-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/visado-rabat</loc><lastmod>2025-02-14</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/carta-motivacion-rabat</loc><lastmod>2025-02-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/contratos-alquiler-rabat</loc><lastmod>2025-03-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/cartas-administrativas-rabat</loc><lastmod>2025-03-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/servicios-escritor-rabat</loc><lastmod>2025-03-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/traduccion-arabe-espanol-rabat</loc><lastmod>2025-03-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/formularios-rabat</loc><lastmod>2025-04-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/solicitud-empleo-rabat</loc><lastmod>2025-04-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/certificados-rabat</loc><lastmod>2025-04-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/correccion-documentos-rabat</loc><lastmod>2025-04-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/recursos-administrativos-rabat</loc><lastmod>2025-05-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/escritor-publico-barrio-rabat</loc><lastmod>2025-05-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/inmobiliario-rabat</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/traduccion-espanol-arabe-rabat</loc><lastmod>2025-05-28</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/contratos-comerciales-rabat</loc><lastmod>2025-06-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://katibrabat.com/blog/escritor-digital-rabat</loc><lastmod>2025-06-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+</urlset>

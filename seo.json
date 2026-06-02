@@ -1,0 +1,139 @@
+{
+  "site": {
+    "name": "KatibRabat",
+    "url": "https://katibrabat.com",
+    "phone": "+212612605737",
+    "whatsapp": "https://wa.me/212612605737",
+    "email": "salatrir@gmail.com",
+    "address": {
+      "city": "Rabat",
+      "country": "Morocco",
+      "countryCode": "MA",
+      "region": "MA-07",
+      "lat": 34.0209,
+      "lng": -6.8416
+    }
+  },
+  "languages": {
+    "ar": {
+      "title": "كاتب عمومي الرباط | خدمات كتابة احترافية | KatibRabat",
+      "description": "كاتب عمومي محترف في الرباط. خدمات كتابة الشكايات والطلبات والسيرة الذاتية والترجمة والعقود والرسائل الإدارية. تواصل عبر واتساب +212612605737",
+      "keywords": [
+        "كاتب عمومي الرباط",
+        "كاتب عمومي الرباط",
+        "كاتب عمومي قربي الرباط",
+        "خدمات الكتابة العمومية",
+        "كتابة الشكايات الرباط",
+        "كتابة طلب خطي الرباط",
+        "ترجمة الوثائق الرباط",
+        "سيرة ذاتية احترافية الرباط",
+        "CV الرباط",
+        "عقود إدارية الرباط",
+        "طلبات التأشيرة الرباط",
+        "الرسائل الإدارية الرباط",
+        "مساعدة إدارية الرباط",
+        "تصحيح الوثائق الرباط",
+        "تعبئة الاستمارات الرباط"
+      ],
+      "og_locale": "ar_MA",
+      "hreflang": "ar"
+    },
+    "fr": {
+      "title": "Écrivain Public Rabat | Services Rédaction Professionnelle | KatibRabat",
+      "description": "Écrivain public professionnel à Rabat. Rédaction plaintes, demandes, CV, traductions, contrats et courrier administratif. Contactez via WhatsApp +212612605737",
+      "keywords": [
+        "écrivain public Rabat",
+        "écrivain public Maroc",
+        "rédaction administrative Rabat",
+        "CV professionnel Rabat",
+        "traduction arabe français Rabat",
+        "contrats Rabat",
+        "demande visa Rabat",
+        "lettre motivation Rabat",
+        "plainte administrative Rabat",
+        "aide administrative Rabat"
+      ],
+      "og_locale": "fr_MA",
+      "hreflang": "fr"
+    },
+    "en": {
+      "title": "Public Writer Rabat | Professional Writing Services | KatibRabat",
+      "description": "Professional public writer in Rabat, Morocco. Complaint writing, applications, CV, translations, contracts & administrative letters. Contact via WhatsApp +212612605737",
+      "keywords": [
+        "public writer Rabat",
+        "document writing Rabat",
+        "professional CV Rabat",
+        "translation services Rabat",
+        "administrative writing Rabat",
+        "visa application letter Rabat",
+        "cover letter Rabat",
+        "contract drafting Rabat"
+      ],
+      "og_locale": "en_US",
+      "hreflang": "en"
+    },
+    "es": {
+      "title": "Escritor Público Rabat | Servicios Redacción Profesional | KatibRabat",
+      "description": "Escritor público profesional en Rabat, Marruecos. Redacción quejas, solicitudes, CV, traducciones, contratos y cartas administrativas. Contacte por WhatsApp +212612605737",
+      "keywords": [
+        "escritor público Rabat",
+        "redacción documentos Rabat",
+        "CV profesional Rabat",
+        "traducción árabe español Rabat",
+        "contratos Rabat",
+        "solicitud visado Rabat"
+      ],
+      "og_locale": "es_ES",
+      "hreflang": "es"
+    }
+  },
+  "schema_org": {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "KatibRabat — كاتب عمومي الرباط",
+    "url": "https://katibrabat.com",
+    "telephone": "+212612605737",
+    "email": "salatrir@gmail.com",
+    "priceRange": "$$",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Rabat",
+      "addressRegion": "Rabat-Settat",
+      "addressCountry": "MA"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 34.0209,
+      "longitude": -6.8416
+    },
+    "openingHours": ["Mo-Sa 09:00-19:00"],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": "98",
+      "bestRating": "5"
+    }
+  },
+  "target_keywords": {
+    "primary": [
+      "كاتب عمومي الرباط",
+      "écrivain public Rabat",
+      "public writer Rabat",
+      "escritor público Rabat"
+    ],
+    "secondary": [
+      "كاتب عمومي الرباط",
+      "كتابة شكايات الرباط",
+      "CV احترافي الرباط",
+      "ترجمة وثائق الرباط"
+    ],
+    "long_tail": [
+      "كيف أجد كاتب عمومي في الرباط",
+      "أحتاج كاتب عمومي قريب مني في الرباط",
+      "ترجمة من العربية إلى الفرنسية الرباط",
+      "comment trouver écrivain public Rabat",
+      "how to write a complaint letter in Rabat",
+      "professional CV writing Rabat Morocco"
+    ]
+  }
+}
